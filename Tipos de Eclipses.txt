@@ -1,0 +1,9 @@
+1. Eclipses Solares
+   - Totais
+   - Parciais
+   - Anulares
+
+2. Elipses lunares
+   - Penumbrais
+   - Parciais
+   - Totais
