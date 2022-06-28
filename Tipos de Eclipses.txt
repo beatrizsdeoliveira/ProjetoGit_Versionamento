@@ -4,6 +4,6 @@
    - Anulares
 
 2. Elipses lunares
-   - Penumbrais
+   - Penumbrais 
    - Parciais
    - Totais
