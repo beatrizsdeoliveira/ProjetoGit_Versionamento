@@ -1,8 +1,9 @@
 As estrelas mais conhecidas do sistema solar:
 - Sol
-- Sírius
+- SÃ­rius
 - Bellatrix
 - Altair
 - Denebola
 - Saiph
 - Canopus
+- Sigma Orionis
